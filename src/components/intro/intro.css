@@ -93,6 +93,10 @@
     .i {
       flex-direction: column;
     }
+
+    .i-intro{
+      margin-top:50px;
+    }
   
     .i-left-wrapper {
     
@@ -102,10 +106,12 @@
       text-align: center;
       height: 100%;
     }
-  
-    .i-desc{
-      display: none;
+
+    .i-right{
+      display:none;
     }
+  
+  
     
 }
   

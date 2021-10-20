@@ -7,7 +7,7 @@ const ProductList = () => {
     return (
         <div className="pl">
             <div className="pl-texts">
-                <h1 className="pl-title">Develop, Build and Code</h1>
+                <h1 className="pl-title">Code, Build and Develop</h1>
                 <p className="pl-desc">
                     Some of my Frontend and Mern-stack Applications have worked on for some months now.
                 </p>
